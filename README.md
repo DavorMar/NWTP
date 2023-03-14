@@ -17,4 +17,4 @@ Armor weights-L , M , H
 Last thing you write always is price or gs. That is just how you want it sorted
 If bot doesnt respond with seaching, please wait, it means your command is wrong and he is still waiting for a correct one
 
-I havent uploaded images required for it to work. If you need them, message me on discord: Kichma#2318
+Currently not working since most of UI elements have changed since this was developed
